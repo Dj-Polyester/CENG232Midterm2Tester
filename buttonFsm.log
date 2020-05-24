@@ -7,7 +7,7 @@ Time 4 ns (negedge) current output 0
 Time 5 ns next output 0
 
 Time 5 ns current output 0 input 1
-Time 6 ns (posedge) current output 0
+Time 6 ns (posedge) current output 1
 Time 8 ns (negedge) current output 1
 Time 9 ns next output 1
 
@@ -42,7 +42,7 @@ Time 32 ns (negedge) current output 1
 Time 33 ns next output 1
 
 Time 33 ns current output 1 input 1
-Time 34 ns (posedge) current output 1
+Time 34 ns (posedge) current output 0
 Time 36 ns (negedge) current output 0
 Time 37 ns next output 0
 
@@ -57,7 +57,7 @@ Time 44 ns (negedge) current output 0
 Time 45 ns next output 0
 
 Time 45 ns current output 0 input 1
-Time 46 ns (posedge) current output 0
+Time 46 ns (posedge) current output 1
 Time 48 ns (negedge) current output 1
 Time 49 ns next output 1
 
@@ -72,7 +72,7 @@ Time 56 ns (negedge) current output 1
 Time 57 ns next output 1
 
 Time 57 ns current output 1 input 1
-Time 58 ns (posedge) current output 1
+Time 58 ns (posedge) current output 0
 Time 60 ns (negedge) current output 0
 Time 61 ns next output 0
 
@@ -82,7 +82,7 @@ Time 64 ns (negedge) current output 0
 Time 65 ns next output 0
 
 Time 65 ns current output 0 input 1
-Time 66 ns (posedge) current output 0
+Time 66 ns (posedge) current output 1
 Time 68 ns (negedge) current output 1
 Time 69 ns next output 1
 
@@ -92,7 +92,7 @@ Time 72 ns (negedge) current output 1
 Time 73 ns next output 1
 
 Time 73 ns current output 1 input 1
-Time 74 ns (posedge) current output 1
+Time 74 ns (posedge) current output 0
 Time 76 ns (negedge) current output 0
 Time 77 ns next output 0
 
@@ -107,7 +107,7 @@ Time 84 ns (negedge) current output 0
 Time 85 ns next output 0
 
 Time 85 ns current output 0 input 1
-Time 86 ns (posedge) current output 0
+Time 86 ns (posedge) current output 1
 Time 88 ns (negedge) current output 1
 Time 89 ns next output 1
 
@@ -127,7 +127,7 @@ Time 100 ns (negedge) current output 1
 Time 101 ns next output 1
 
 Time 101 ns current output 1 input 1
-Time 102 ns (posedge) current output 1
+Time 102 ns (posedge) current output 0
 Time 104 ns (negedge) current output 0
 Time 105 ns next output 0
 
@@ -137,7 +137,7 @@ Time 108 ns (negedge) current output 0
 Time 109 ns next output 0
 
 Time 109 ns current output 0 input 1
-Time 110 ns (posedge) current output 0
+Time 110 ns (posedge) current output 1
 Time 112 ns (negedge) current output 1
 Time 113 ns next output 1
 
@@ -177,7 +177,7 @@ Time 140 ns (negedge) current output 1
 Time 141 ns next output 1
 
 Time 141 ns current output 1 input 1
-Time 142 ns (posedge) current output 1
+Time 142 ns (posedge) current output 0
 Time 144 ns (negedge) current output 0
 Time 145 ns next output 0
 
@@ -187,7 +187,7 @@ Time 148 ns (negedge) current output 0
 Time 149 ns next output 0
 
 Time 149 ns current output 0 input 1
-Time 150 ns (posedge) current output 0
+Time 150 ns (posedge) current output 1
 Time 152 ns (negedge) current output 1
 Time 153 ns next output 1
 
@@ -222,7 +222,7 @@ Time 176 ns (negedge) current output 1
 Time 177 ns next output 1
 
 Time 177 ns current output 1 input 1
-Time 178 ns (posedge) current output 1
+Time 178 ns (posedge) current output 0
 Time 180 ns (negedge) current output 0
 Time 181 ns next output 0
 
@@ -262,7 +262,7 @@ Time 208 ns (negedge) current output 0
 Time 209 ns next output 0
 
 Time 209 ns current output 0 input 1
-Time 210 ns (posedge) current output 0
+Time 210 ns (posedge) current output 1
 Time 212 ns (negedge) current output 1
 Time 213 ns next output 1
 
@@ -277,7 +277,7 @@ Time 220 ns (negedge) current output 1
 Time 221 ns next output 1
 
 Time 221 ns current output 1 input 1
-Time 222 ns (posedge) current output 1
+Time 222 ns (posedge) current output 0
 Time 224 ns (negedge) current output 0
 Time 225 ns next output 0
 
@@ -312,7 +312,7 @@ Time 248 ns (negedge) current output 0
 Time 249 ns next output 0
 
 Time 249 ns current output 0 input 1
-Time 250 ns (posedge) current output 0
+Time 250 ns (posedge) current output 1
 Time 252 ns (negedge) current output 1
 Time 253 ns next output 1
 
@@ -347,7 +347,7 @@ Time 276 ns (negedge) current output 1
 Time 277 ns next output 1
 
 Time 277 ns current output 1 input 1
-Time 278 ns (posedge) current output 1
+Time 278 ns (posedge) current output 0
 Time 280 ns (negedge) current output 0
 Time 281 ns next output 0
 
@@ -372,7 +372,7 @@ Time 296 ns (negedge) current output 0
 Time 297 ns next output 0
 
 Time 297 ns current output 0 input 1
-Time 298 ns (posedge) current output 0
+Time 298 ns (posedge) current output 1
 Time 300 ns (negedge) current output 1
 Time 301 ns next output 1
 
@@ -387,7 +387,7 @@ Time 308 ns (negedge) current output 1
 Time 309 ns next output 1
 
 Time 309 ns current output 1 input 1
-Time 310 ns (posedge) current output 1
+Time 310 ns (posedge) current output 0
 Time 312 ns (negedge) current output 0
 Time 313 ns next output 0
 
@@ -402,7 +402,7 @@ Time 320 ns (negedge) current output 0
 Time 321 ns next output 0
 
 Time 321 ns current output 0 input 1
-Time 322 ns (posedge) current output 0
+Time 322 ns (posedge) current output 1
 Time 324 ns (negedge) current output 1
 Time 325 ns next output 1
 
@@ -422,7 +422,7 @@ Time 336 ns (negedge) current output 1
 Time 337 ns next output 1
 
 Time 337 ns current output 1 input 1
-Time 338 ns (posedge) current output 1
+Time 338 ns (posedge) current output 0
 Time 340 ns (negedge) current output 0
 Time 341 ns next output 0
 
@@ -452,7 +452,7 @@ Time 360 ns (negedge) current output 0
 Time 361 ns next output 0
 
 Time 361 ns current output 0 input 1
-Time 362 ns (posedge) current output 0
+Time 362 ns (posedge) current output 1
 Time 364 ns (negedge) current output 1
 Time 365 ns next output 1
 
@@ -472,7 +472,7 @@ Time 376 ns (negedge) current output 1
 Time 377 ns next output 1
 
 Time 377 ns current output 1 input 1
-Time 378 ns (posedge) current output 1
+Time 378 ns (posedge) current output 0
 Time 380 ns (negedge) current output 0
 Time 381 ns next output 0
 
