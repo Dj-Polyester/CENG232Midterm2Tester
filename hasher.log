@@ -1,5 +1,5 @@
 Initial values:
-Time 0 ns cur_time  x student_id x cur_hash 0
+Time 0 ns cur_time  0 student_id 0 cur_hash 0
 Your id: 2310191
 (your_id) mod (2**16) = 16431
 Your modified id: 16431
