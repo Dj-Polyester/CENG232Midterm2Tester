@@ -3,6 +3,13 @@ A tester for CENG232 Midterm 2 of the second semester 2020.
 This is the latest recommended version. If you have any opinions open an issue (or you can dm me), 
 if you want to contribute, send a pr.
 
+Test it *fast*
+```
+chmod +x test
+./test
+```
+Or you can use makefile. Just type `make`.
+
 ## Remarks
 
 **1) Copy the commented lines**
