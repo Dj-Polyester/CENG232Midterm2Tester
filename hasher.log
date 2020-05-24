@@ -1,0 +1,506 @@
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2310191
+(your_id) mod (2**16) = 16431
+Your modified id: 16431
+
+Current values:
+Time 1 ns cur_time 0 student_id 16431 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 16431 cur_hash 6024
+
+Current values:
+Time 5 ns cur_time 0 student_id 16431 cur_hash 6024
+Next values:
+Time 9 ns cur_time 0 student_id 16431 cur_hash 29852
+
+Current values:
+Time 9 ns cur_time 0 student_id 16431 cur_hash 29852
+Next values:
+Time 13 ns cur_time 0 student_id 16431 cur_hash 48246
+
+Current values:
+Time 13 ns cur_time 0 student_id 16431 cur_hash 48246
+Next values:
+Time 17 ns cur_time 0 student_id 16431 cur_hash 21723
+
+Current values:
+Time 17 ns cur_time 0 student_id 16431 cur_hash 21723
+Next values:
+Time 21 ns cur_time 0 student_id 16431 cur_hash 43859
+
+Current values:
+Time 21 ns cur_time 0 student_id 16431 cur_hash 43859
+Next values:
+Time 25 ns cur_time 0 student_id 16431 cur_hash 55069
+
+Current values:
+Time 25 ns cur_time 0 student_id 16431 cur_hash 55069
+Next values:
+Time 29 ns cur_time 0 student_id 16431 cur_hash 64453
+
+Current values:
+Time 29 ns cur_time 0 student_id 16431 cur_hash 64453
+Next values:
+Time 33 ns cur_time 0 student_id 16431 cur_hash 29819
+
+Current values:
+Time 33 ns cur_time 0 student_id 16431 cur_hash 29819
+Next values:
+Time 37 ns cur_time 0 student_id 16431 cur_hash 44790
+
+Current values:
+Time 37 ns cur_time 0 student_id 16431 cur_hash 44790
+Next values:
+Time 41 ns cur_time 0 student_id 16431 cur_hash 61342
+
+Current values:
+Time 41 ns cur_time 0 student_id 16431 cur_hash 61342
+Next values:
+Time 45 ns cur_time 0 student_id 16431 cur_hash 14578
+
+Current values:
+Time 45 ns cur_time 0 student_id 16431 cur_hash 14578
+Next values:
+Time 49 ns cur_time 0 student_id 16431 cur_hash 13412
+
+Current values:
+Time 49 ns cur_time 0 student_id 16431 cur_hash 13412
+Next values:
+Time 53 ns cur_time 0 student_id 16431 cur_hash 35602
+
+Current values:
+Time 53 ns cur_time 0 student_id 16431 cur_hash 35602
+Next values:
+Time 57 ns cur_time 0 student_id 16431 cur_hash 59397
+
+Current values:
+Time 57 ns cur_time 0 student_id 16431 cur_hash 59397
+Next values:
+Time 61 ns cur_time 0 student_id 16431 cur_hash 2278
+
+Current values:
+Time 61 ns cur_time 0 student_id 16431 cur_hash 2278
+Next values:
+Time 65 ns cur_time 0 student_id 16431 cur_hash 61554
+
+Current values:
+Time 65 ns cur_time 0 student_id 16431 cur_hash 61554
+Next values:
+Time 69 ns cur_time 0 student_id 16431 cur_hash 23601
+
+Current values:
+Time 69 ns cur_time 0 student_id 16431 cur_hash 23601
+Next values:
+Time 73 ns cur_time 0 student_id 16431 cur_hash 4208
+
+Current values:
+Time 73 ns cur_time 0 student_id 16431 cur_hash 4208
+Next values:
+Time 77 ns cur_time 0 student_id 16431 cur_hash 59312
+
+Current values:
+Time 77 ns cur_time 0 student_id 16431 cur_hash 59312
+Next values:
+Time 81 ns cur_time 0 student_id 16431 cur_hash 39311
+
+Current values:
+Time 81 ns cur_time 0 student_id 16431 cur_hash 39311
+Next values:
+Time 85 ns cur_time 0 student_id 16431 cur_hash 13284
+
+Current values:
+Time 85 ns cur_time 0 student_id 16431 cur_hash 13284
+Next values:
+Time 89 ns cur_time 0 student_id 16431 cur_hash 38685
+
+Current values:
+Time 89 ns cur_time 0 student_id 16431 cur_hash 38685
+Next values:
+Time 93 ns cur_time 0 student_id 16431 cur_hash 33989
+
+Current values:
+Time 93 ns cur_time 0 student_id 16431 cur_hash 33989
+Next values:
+Time 97 ns cur_time 0 student_id 16431 cur_hash 24583
+
+Current values:
+Time 97 ns cur_time 0 student_id 16431 cur_hash 24583
+Next values:
+Time 101 ns cur_time 0 student_id 16431 cur_hash 62982
+
+Current values:
+Time 101 ns cur_time 0 student_id 16431 cur_hash 62982
+Next values:
+Time 105 ns cur_time 0 student_id 16431 cur_hash 10682
+
+Current values:
+Time 105 ns cur_time 0 student_id 16431 cur_hash 10682
+Next values:
+Time 109 ns cur_time 0 student_id 16431 cur_hash 63569
+
+Current values:
+Time 109 ns cur_time 0 student_id 16431 cur_hash 63569
+Next values:
+Time 113 ns cur_time 0 student_id 16431 cur_hash 28900
+
+Current values:
+Time 113 ns cur_time 0 student_id 16431 cur_hash 28900
+Next values:
+Time 117 ns cur_time 0 student_id 16431 cur_hash 17503
+
+Current values:
+Time 117 ns cur_time 0 student_id 16431 cur_hash 17503
+Next values:
+Time 121 ns cur_time 0 student_id 16431 cur_hash 4489
+
+Current values:
+Time 121 ns cur_time 0 student_id 16431 cur_hash 4489
+Next values:
+Time 125 ns cur_time 0 student_id 16431 cur_hash 32787
+
+Current values:
+Time 125 ns cur_time 0 student_id 16431 cur_hash 32787
+Next values:
+Time 129 ns cur_time 0 student_id 16431 cur_hash 61955
+
+Current values:
+Time 129 ns cur_time 0 student_id 16431 cur_hash 61955
+Next values:
+Time 133 ns cur_time 0 student_id 16431 cur_hash 34519
+
+Current values:
+Time 133 ns cur_time 0 student_id 16431 cur_hash 34519
+Next values:
+Time 137 ns cur_time 0 student_id 16431 cur_hash 32846
+
+Current values:
+Time 137 ns cur_time 0 student_id 16431 cur_hash 32846
+Next values:
+Time 141 ns cur_time 0 student_id 16431 cur_hash 3971
+
+Current values:
+Time 141 ns cur_time 0 student_id 16431 cur_hash 3971
+Next values:
+Time 145 ns cur_time 0 student_id 16431 cur_hash 16627
+
+Current values:
+Time 145 ns cur_time 0 student_id 16431 cur_hash 16627
+Next values:
+Time 149 ns cur_time 0 student_id 16431 cur_hash 150
+
+Current values:
+Time 149 ns cur_time 0 student_id 16431 cur_hash 150
+Next values:
+Time 153 ns cur_time 0 student_id 16431 cur_hash 52393
+
+Current values:
+Time 153 ns cur_time 0 student_id 16431 cur_hash 52393
+Next values:
+Time 157 ns cur_time 0 student_id 16431 cur_hash 5546
+
+Current values:
+Time 157 ns cur_time 0 student_id 16431 cur_hash 5546
+Next values:
+Time 161 ns cur_time 0 student_id 16431 cur_hash 4073
+
+Current values:
+Time 161 ns cur_time 0 student_id 16431 cur_hash 4073
+Next values:
+Time 165 ns cur_time 0 student_id 16431 cur_hash 6739
+
+Current values:
+Time 165 ns cur_time 0 student_id 16431 cur_hash 6739
+Next values:
+Time 169 ns cur_time 0 student_id 16431 cur_hash 39253
+
+Current values:
+Time 169 ns cur_time 0 student_id 16431 cur_hash 39253
+Next values:
+Time 173 ns cur_time 0 student_id 16431 cur_hash 2929
+
+Current values:
+Time 173 ns cur_time 0 student_id 16431 cur_hash 2929
+Next values:
+Time 177 ns cur_time 0 student_id 16431 cur_hash 56765
+
+Current values:
+Time 177 ns cur_time 0 student_id 16431 cur_hash 56765
+Next values:
+Time 181 ns cur_time 0 student_id 16431 cur_hash 63354
+
+Current values:
+Time 181 ns cur_time 0 student_id 16431 cur_hash 63354
+Next values:
+Time 185 ns cur_time 0 student_id 16431 cur_hash 15439
+
+Current values:
+Time 185 ns cur_time 0 student_id 16431 cur_hash 15439
+Next values:
+Time 189 ns cur_time 0 student_id 16431 cur_hash 3844
+
+Current values:
+Time 189 ns cur_time 0 student_id 16431 cur_hash 3844
+Next values:
+Time 193 ns cur_time 0 student_id 16431 cur_hash 29053
+
+Current values:
+Time 193 ns cur_time 0 student_id 16431 cur_hash 29053
+Next values:
+Time 197 ns cur_time 0 student_id 16431 cur_hash 32499
+
+Current values:
+Time 197 ns cur_time 0 student_id 16431 cur_hash 32499
+Next values:
+Time 201 ns cur_time 0 student_id 16431 cur_hash 25478
+
+Current values:
+Time 201 ns cur_time 0 student_id 16431 cur_hash 25478
+Next values:
+Time 205 ns cur_time 0 student_id 16431 cur_hash 57575
+
+Current values:
+Time 205 ns cur_time 0 student_id 16431 cur_hash 57575
+Next values:
+Time 209 ns cur_time 0 student_id 16431 cur_hash 59012
+
+Current values:
+Time 209 ns cur_time 0 student_id 16431 cur_hash 59012
+Next values:
+Time 213 ns cur_time 0 student_id 16431 cur_hash 4696
+
+Current values:
+Time 213 ns cur_time 0 student_id 16431 cur_hash 4696
+Next values:
+Time 217 ns cur_time 0 student_id 16431 cur_hash 13642
+
+Current values:
+Time 217 ns cur_time 0 student_id 16431 cur_hash 13642
+Next values:
+Time 221 ns cur_time 0 student_id 16431 cur_hash 30384
+
+Current values:
+Time 221 ns cur_time 0 student_id 16431 cur_hash 30384
+Next values:
+Time 225 ns cur_time 0 student_id 16431 cur_hash 39597
+
+Current values:
+Time 225 ns cur_time 0 student_id 16431 cur_hash 39597
+Next values:
+Time 229 ns cur_time 0 student_id 16431 cur_hash 64726
+
+Current values:
+Time 229 ns cur_time 0 student_id 16431 cur_hash 64726
+Next values:
+Time 233 ns cur_time 0 student_id 16431 cur_hash 1460
+
+Current values:
+Time 233 ns cur_time 0 student_id 16431 cur_hash 1460
+Next values:
+Time 237 ns cur_time 0 student_id 16431 cur_hash 23543
+
+Current values:
+Time 237 ns cur_time 0 student_id 16431 cur_hash 23543
+Next values:
+Time 241 ns cur_time 0 student_id 16431 cur_hash 972
+
+Current values:
+Time 241 ns cur_time 0 student_id 16431 cur_hash 972
+Next values:
+Time 245 ns cur_time 0 student_id 16431 cur_hash 16014
+
+Current values:
+Time 245 ns cur_time 0 student_id 16431 cur_hash 16014
+Next values:
+Time 249 ns cur_time 0 student_id 16431 cur_hash 679
+
+Current values:
+Time 249 ns cur_time 0 student_id 16431 cur_hash 679
+Next values:
+Time 253 ns cur_time 0 student_id 16431 cur_hash 51736
+
+Current values:
+Time 253 ns cur_time 0 student_id 16431 cur_hash 51736
+Next values:
+Time 257 ns cur_time 0 student_id 16431 cur_hash 19254
+
+Current values:
+Time 257 ns cur_time 0 student_id 16431 cur_hash 19254
+Next values:
+Time 261 ns cur_time 0 student_id 16431 cur_hash 31130
+
+Current values:
+Time 261 ns cur_time 0 student_id 16431 cur_hash 31130
+Next values:
+Time 265 ns cur_time 0 student_id 16431 cur_hash 57554
+
+Current values:
+Time 265 ns cur_time 0 student_id 16431 cur_hash 57554
+Next values:
+Time 269 ns cur_time 0 student_id 16431 cur_hash 52263
+
+Current values:
+Time 269 ns cur_time 0 student_id 16431 cur_hash 52263
+Next values:
+Time 273 ns cur_time 0 student_id 16431 cur_hash 34624
+
+Current values:
+Time 273 ns cur_time 0 student_id 16431 cur_hash 34624
+Next values:
+Time 277 ns cur_time 0 student_id 16431 cur_hash 47727
+
+Current values:
+Time 277 ns cur_time 0 student_id 16431 cur_hash 47727
+Next values:
+Time 281 ns cur_time 0 student_id 16431 cur_hash 24848
+
+Current values:
+Time 281 ns cur_time 0 student_id 16431 cur_hash 24848
+Next values:
+Time 285 ns cur_time 0 student_id 16431 cur_hash 14597
+
+Current values:
+Time 285 ns cur_time 0 student_id 16431 cur_hash 14597
+Next values:
+Time 289 ns cur_time 0 student_id 16431 cur_hash 13138
+
+Current values:
+Time 289 ns cur_time 0 student_id 16431 cur_hash 13138
+Next values:
+Time 293 ns cur_time 0 student_id 16431 cur_hash 42358
+
+Current values:
+Time 293 ns cur_time 0 student_id 16431 cur_hash 42358
+Next values:
+Time 297 ns cur_time 0 student_id 16431 cur_hash 4377
+
+Current values:
+Time 297 ns cur_time 0 student_id 16431 cur_hash 4377
+Next values:
+Time 301 ns cur_time 0 student_id 16431 cur_hash 43285
+
+Current values:
+Time 301 ns cur_time 0 student_id 16431 cur_hash 43285
+Next values:
+Time 305 ns cur_time 0 student_id 16431 cur_hash 64430
+
+Current values:
+Time 305 ns cur_time 0 student_id 16431 cur_hash 64430
+Next values:
+Time 309 ns cur_time 0 student_id 16431 cur_hash 21193
+
+Current values:
+Time 309 ns cur_time 0 student_id 16431 cur_hash 21193
+Next values:
+Time 313 ns cur_time 0 student_id 16431 cur_hash 23044
+
+Current values:
+Time 313 ns cur_time 0 student_id 16431 cur_hash 23044
+Next values:
+Time 317 ns cur_time 0 student_id 16431 cur_hash 39755
+
+Current values:
+Time 317 ns cur_time 0 student_id 16431 cur_hash 39755
+Next values:
+Time 321 ns cur_time 0 student_id 16431 cur_hash 27883
+
+Current values:
+Time 321 ns cur_time 0 student_id 16431 cur_hash 27883
+Next values:
+Time 325 ns cur_time 0 student_id 16431 cur_hash 53546
+
+Current values:
+Time 325 ns cur_time 0 student_id 16431 cur_hash 53546
+Next values:
+Time 329 ns cur_time 0 student_id 16431 cur_hash 6998
+
+Current values:
+Time 329 ns cur_time 0 student_id 16431 cur_hash 6998
+Next values:
+Time 333 ns cur_time 0 student_id 16431 cur_hash 19903
+
+Current values:
+Time 333 ns cur_time 0 student_id 16431 cur_hash 19903
+Next values:
+Time 337 ns cur_time 0 student_id 16431 cur_hash 47089
+
+Current values:
+Time 337 ns cur_time 0 student_id 16431 cur_hash 47089
+Next values:
+Time 341 ns cur_time 0 student_id 16431 cur_hash 1519
+
+Current values:
+Time 341 ns cur_time 0 student_id 16431 cur_hash 1519
+Next values:
+Time 345 ns cur_time 0 student_id 16431 cur_hash 16656
+
+Current values:
+Time 345 ns cur_time 0 student_id 16431 cur_hash 16656
+Next values:
+Time 349 ns cur_time 0 student_id 16431 cur_hash 197
+
+Current values:
+Time 349 ns cur_time 0 student_id 16431 cur_hash 197
+Next values:
+Time 353 ns cur_time 0 student_id 16431 cur_hash 46423
+
+Current values:
+Time 353 ns cur_time 0 student_id 16431 cur_hash 46423
+Next values:
+Time 357 ns cur_time 0 student_id 16431 cur_hash 40342
+
+Current values:
+Time 357 ns cur_time 0 student_id 16431 cur_hash 40342
+Next values:
+Time 361 ns cur_time 0 student_id 16431 cur_hash 5119
+
+Current values:
+Time 361 ns cur_time 0 student_id 16431 cur_hash 5119
+Next values:
+Time 365 ns cur_time 0 student_id 16431 cur_hash 41097
+
+Current values:
+Time 365 ns cur_time 0 student_id 16431 cur_hash 41097
+Next values:
+Time 369 ns cur_time 0 student_id 16431 cur_hash 17311
+
+Current values:
+Time 369 ns cur_time 0 student_id 16431 cur_hash 17311
+Next values:
+Time 373 ns cur_time 0 student_id 16431 cur_hash 3025
+
+Current values:
+Time 373 ns cur_time 0 student_id 16431 cur_hash 3025
+Next values:
+Time 377 ns cur_time 0 student_id 16431 cur_hash 46674
+
+Current values:
+Time 377 ns cur_time 0 student_id 16431 cur_hash 46674
+Next values:
+Time 381 ns cur_time 0 student_id 16431 cur_hash 33864
+
+Current values:
+Time 381 ns cur_time 0 student_id 16431 cur_hash 33864
+Next values:
+Time 385 ns cur_time 0 student_id 16431 cur_hash 7498
+
+Current values:
+Time 385 ns cur_time 0 student_id 16431 cur_hash 7498
+Next values:
+Time 389 ns cur_time 0 student_id 16431 cur_hash 49568
+
+Current values:
+Time 389 ns cur_time 0 student_id 16431 cur_hash 49568
+Next values:
+Time 393 ns cur_time 0 student_id 16431 cur_hash 29459
+
+Current values:
+Time 393 ns cur_time 0 student_id 16431 cur_hash 29459
+Next values:
+Time 397 ns cur_time 0 student_id 16431 cur_hash 7643
+
+Current values:
+Time 397 ns cur_time 0 student_id 16431 cur_hash 7643
+Next values:
+Time 401 ns cur_time 0 student_id 16431 cur_hash 39531
+

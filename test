@@ -1,0 +1,51 @@
+#!/bin/bash
+
+printf "\033[0;34m1) b16toBCD\n\
+2) rtcClkDivider\n\
+3) buttonFsm\n\
+4) timekeeper\n\
+5) hasher\n\
+6) top\n\033[01;33mPlease enter a number (1-6): \033[0m"
+read varname
+case  $varname  in
+    1)       
+    make COMPILE=b16toBCD
+        ;;
+    2)
+    make COMPILE=rtcClkDivider
+        ;;            
+    3)       
+    make COMPILE=buttonFsm
+        ;;
+    4)       
+    make COMPILE=timekeeper
+        ;;
+    5)       
+    make COMPILE=hasher
+        ;;
+    6)
+    yesno1="中東工科大学"
+    yesno2="最高です"
+    while [ $yesno1 != "y" -a $yesno1 != "n" ]
+    do
+    printf "\033[1;31mHave you copied all the commented lines in \
+the top testbench to the top module? (y/n) "
+    read yesno1
+    done 
+    while [ $yesno2 != "y" -a $yesno2 != "n" ]
+    do
+    printf "Have you modified the KEYCHANGE_VALUE \
+in the rtcClkDivider module? (y/n) \033[0m"
+    read yesno2
+    done
+
+    if [ $yesno1 == "y" -a $yesno2 == "y" ]; then
+        make COMPILE=top
+    else 
+        exit 0
+    fi
+        ;;
+    *)
+    echo "Invalid Number"
+        ;;        
+esac 
