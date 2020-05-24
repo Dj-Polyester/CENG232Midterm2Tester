@@ -18,7 +18,7 @@ I could not manage to access the variables inside the `top` (*All variables of m
 
 **2) Modify the KEYCHANGE_VALUE**
 
-Furthermore, please modify the **KEYCHANGE_VALUE** in the `rtcClkDivider` module. For the testbench I recommend 0.5 (Recommended minimum value for the midterm), but you can set whatever you want. 5 is a huge value that you may not see the changes of the display.
+Furthermore, please modify the **KEYCHANGE_VALUE** in the `rtcClkDivider` module. For the testbench I recommend ~~0.5~~ *0.001* or less (Smaller than the recommended minimum value for the midterm 0.5, but makes changes observable), but you can set whatever you want. 5 is a huge value that you may not see the changes of the display.
 
 **3)Beware of the periods**
 
