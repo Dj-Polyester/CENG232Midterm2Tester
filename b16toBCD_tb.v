@@ -29,13 +29,14 @@ begin
     file = $fopen("b16toBCD.log","a");
     $display("Pre-initial values:\nTime %0d enable %0d binary %0d BCD %0d %0d %0d %0d %0d ", $time, enable, to_display, D5, D4, D3, D2, D1);
     $fdisplay(file,"Pre-initial values:\nTime %0d enable %0d binary %0d BCD %0d %0d %0d %0d %0d ", $time, enable, to_display, D5, D4, D3, D2, D1);
+    enable=$random % 2;
     #(period/2)
     $display("Initial values:\nTime %0d enable %0d binary %0d BCD %0d %0d %0d %0d %0d ", $time, enable, to_display, D5, D4, D3, D2, D1);
     $fdisplay(file, "Initial values:\nTime %0d enable %0d binary %0d BCD %0d %0d %0d %0d %0d ", $time, enable, to_display, D5, D4, D3, D2, D1);
     for (i = 0; i<limit; i=i+1) 
     begin
-        to_display=(i ? $random % 2**16 : 0);
-        enable=(i ? $random % 2 : 1);
+        to_display=$random % 2**16;
+        enable=$random % 2;
         #period;
         $display("Time %0d enable %0d binary %0d BCD %0d %0d %0d %0d %0d ", $time, enable, to_display, D5, D4, D3, D2, D1);
         $fdisplay(file,"Time %0d enable %0d binary %0d BCD %0d %0d %0d %0d %0d ", $time, enable, to_display, D5, D4, D3, D2, D1);
