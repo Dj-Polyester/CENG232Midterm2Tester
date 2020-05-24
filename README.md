@@ -22,4 +22,4 @@ Furthermore, please modify the **KEYCHANGE_VALUE** in the `rtcClkDivider` module
 
 **3)Beware of the periods**
 
-In some testbenches, you realize that `#period;` written once. Indeed, `#period` is half-a-period. 
+In some testbenches, you notice that `#period;` written once. Indeed, `#period` is half-a-period. 
