@@ -16,7 +16,7 @@ wire clk_500Hz, clk_5s;
 integer i, limit, file, tmp_id;
 
 localparam period = 500;
-localparam MyStudentId = 2310191;//write your student id
+localparam MyStudentId = ;//write your student id
 
 top UUT (
 	.sysclk(sysclk),

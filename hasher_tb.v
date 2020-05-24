@@ -51,6 +51,7 @@ begin
     
     $timeformat(-9, 0, " ns", 20);
     file = $fopen("hasher.log","a");
+    cur_time=0;
     $display("Initial values:\nTime %0t cur_time  %0d student_id %0d cur_hash %0d",
     $time,cur_time,student_id,cur_hash);
     $fdisplay(file,"Initial values:\nTime %0t cur_time  %0d student_id %0d cur_hash %0d",
@@ -64,7 +65,7 @@ begin
     $display("Your modified id: %0d\n",modded_id);
     $fdisplay(file,"Your modified id: %0d\n",modded_id);
     student_id=modded_id;
-    cur_time=0;
+    
     #(period/2)
     for (i = 0; i<limit; i=i+1) begin
         
@@ -83,13 +84,6 @@ begin
 
     end
     
-    
-
-
-   
-
-    
-
     $fclose(file);
     $finish;
 end
