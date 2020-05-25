@@ -30,4 +30,5 @@ In some testbenches, you notice that `#period;` written once. Indeed, `#period` 
 * `buttonFsm_tb.v` is updated. It simulates bouncing.
 * `top.log` is updated, timekeeper updates every N seconds
 * `top_tb.v` is updated. Unnecessary variable `button_out` is out
+* Two `buttonFsm.log` files, alternative one added.
 
