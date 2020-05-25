@@ -32,7 +32,7 @@ case  $varname  in
 the top testbench to the top module? (y/n) \033[0m"
     read yesno1
     done 
-    while [ $yesno2 != "y" -a $yesno2 != "n" ]
+    while [ $yesno1 != "n" -a $yesno2 != "y" -a $yesno2 != "n" ]
     do
     printf "\033[1;31mHave you modified the KEYCHANGE_VALUE \
 in the rtcClkDivider module? (y/n) \033[0m"
