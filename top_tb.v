@@ -55,9 +55,10 @@ endfunction
 initial sysclk=0;
 always #period sysclk=~sysclk;
 //Please copy commented lines into your top module and modify KEYCHANGE_PERIOD in your rtcClkDivider Module (preferably 0.5)
+// integer file;
 // always @(sysclk) begin
 // 	file=$fopen("top.log","a");
-// 	$fdisplay(file,"cur_time %0d sysclk %0d button_in %0d enable %0d button_out %0d student_id %0d cur_hash %0d BCD %0d %0d %0d %0d %0d",cur_time,sysclk,button_in,enable,button_out,student_id,cur_hash,D5_out,D4_out,D3_out,D2_out,D1_out);
+// 	$fdisplay(file,"cur_time %0d sysclk %0d button_in %0d enable %0d student_id %0d cur_hash %0d BCD %0d %0d %0d %0d %0d",cur_time,sysclk,button_in,enable,student_id,cur_hash,D5_out,D4_out,D3_out,D2_out,D1_out);
 // 	$fclose(file);
 // end
 initial begin
