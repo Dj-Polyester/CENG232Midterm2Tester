@@ -19,8 +19,8 @@ initial clk=0;
 always #period clk=~clk;
 
 always @(posedge clk) begin
-    $display("CLOCK CYCLE %0d\nTime %0t (posedge) current output %0d", i/2, $time, stateful_button);
-    $fdisplay(file,"CLOCK CYCLE %0d\nTime %0t (posedge) current output %0d", i/2, $time, stateful_button);
+    $display("CLOCK CYCLE %0d\nTime %0t (posedge) current output %0d", i, $time, stateful_button);
+    $fdisplay(file,"CLOCK CYCLE %0d\nTime %0t (posedge) current output %0d", i, $time, stateful_button);
     #(period/2)
     $display("Time %0t (hi-level) current output %0d", $time, stateful_button);
     $fdisplay(file,"Time %0t (hi-level) current output %0d", $time, stateful_button);
