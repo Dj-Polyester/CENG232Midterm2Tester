@@ -70,7 +70,7 @@ begin
                 $display("NOT-pressed");
                 $fdisplay(file, "NOT-pressed");
             end
-            #(period/16);
+            #(period/16.0);
         end
         
         #period;
