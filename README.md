@@ -23,3 +23,7 @@ Furthermore, please modify the **KEYCHANGE_VALUE** in the `rtcClkDivider` module
 **3)Beware of the periods**
 
 In some testbenches, you notice that `#period;` written once. Indeed, `#period` is half-a-period. 
+
+**UPDATE**
+
+25/05/2020: buttonFsm_tb is updated. It simulates bouncing.
