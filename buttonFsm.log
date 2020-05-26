@@ -3,48 +3,34 @@ Time 1 ns initial output 0
 
 
 
-pressed
 CLOCK CYCLE 0
 Time 2 ns (posedge) current output 0
-Time 3 ns (hi-level) current output 1
-Time 4 ns (negedge) current output 1
-4 times random bouncing
-pressed
-Time 5 ns (lo-level) current output 1
+Time 3 ns (hi-level) current output 0
+Time 4 ns (negedge) current output 0
+Time 5 ns (lo-level) current output 0
 
 
 
-pressed
-pressed
-pressed
 CLOCK CYCLE 1
-Time 6 ns (posedge) current output 1
+Time 6 ns (posedge) current output 0
 Time 7 ns (hi-level) current output 1
 Time 8 ns (negedge) current output 1
-3 times random bouncing
-pressed
 Time 9 ns (lo-level) current output 1
 
 
 
-pressed
-NOT-pressed
 CLOCK CYCLE 2
 Time 10 ns (posedge) current output 1
 Time 11 ns (hi-level) current output 1
 Time 12 ns (negedge) current output 1
-2 times random bouncing
-pressed
 Time 13 ns (lo-level) current output 1
 
 
 
-NOT-pressed
 CLOCK CYCLE 3
 Time 14 ns (posedge) current output 1
 Time 15 ns (hi-level) current output 1
 Time 16 ns (negedge) current output 1
-NOT-pressed
 Time 17 ns (lo-level) current output 1
 
 
@@ -53,7 +39,6 @@ CLOCK CYCLE 4
 Time 18 ns (posedge) current output 1
 Time 19 ns (hi-level) current output 1
 Time 20 ns (negedge) current output 1
-NOT-pressed
 Time 21 ns (lo-level) current output 1
 
 
@@ -62,40 +47,30 @@ CLOCK CYCLE 5
 Time 22 ns (posedge) current output 1
 Time 23 ns (hi-level) current output 1
 Time 24 ns (negedge) current output 1
-2 times random bouncing
-pressed
 Time 25 ns (lo-level) current output 1
 
 
 
-NOT-pressed
 CLOCK CYCLE 6
 Time 26 ns (posedge) current output 1
 Time 27 ns (hi-level) current output 1
 Time 28 ns (negedge) current output 1
-4 times random bouncing
-NOT-pressed
 Time 29 ns (lo-level) current output 1
 
 
 
-NOT-pressed
-NOT-pressed
-pressed
 CLOCK CYCLE 7
 Time 30 ns (posedge) current output 1
-Time 31 ns (hi-level) current output 0
-Time 32 ns (negedge) current output 0
-pressed
-Time 33 ns (lo-level) current output 0
+Time 31 ns (hi-level) current output 1
+Time 32 ns (negedge) current output 1
+Time 33 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 8
-Time 34 ns (posedge) current output 0
+Time 34 ns (posedge) current output 1
 Time 35 ns (hi-level) current output 0
 Time 36 ns (negedge) current output 0
-pressed
 Time 37 ns (lo-level) current output 0
 
 
@@ -104,107 +79,86 @@ CLOCK CYCLE 9
 Time 38 ns (posedge) current output 0
 Time 39 ns (hi-level) current output 0
 Time 40 ns (negedge) current output 0
-2 times random bouncing
-NOT-pressed
 Time 41 ns (lo-level) current output 0
 
 
 
-NOT-pressed
 CLOCK CYCLE 10
 Time 42 ns (posedge) current output 0
 Time 43 ns (hi-level) current output 0
 Time 44 ns (negedge) current output 0
-NOT-pressed
 Time 45 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 11
 Time 46 ns (posedge) current output 0
-Time 47 ns (hi-level) current output 0
-Time 48 ns (negedge) current output 0
-NOT-pressed
-Time 49 ns (lo-level) current output 0
+Time 47 ns (hi-level) current output 1
+Time 48 ns (negedge) current output 1
+Time 49 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 12
-Time 50 ns (posedge) current output 0
-Time 51 ns (hi-level) current output 0
-Time 52 ns (negedge) current output 0
-2 times random bouncing
-pressed
-Time 53 ns (lo-level) current output 0
+Time 50 ns (posedge) current output 1
+Time 51 ns (hi-level) current output 1
+Time 52 ns (negedge) current output 1
+Time 53 ns (lo-level) current output 1
 
 
 
-pressed
 CLOCK CYCLE 13
-Time 54 ns (posedge) current output 0
+Time 54 ns (posedge) current output 1
 Time 55 ns (hi-level) current output 1
 Time 56 ns (negedge) current output 1
-pressed
 Time 57 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 14
 Time 58 ns (posedge) current output 1
-Time 59 ns (hi-level) current output 1
-Time 60 ns (negedge) current output 1
-3 times random bouncing
-NOT-pressed
-Time 61 ns (lo-level) current output 1
+Time 59 ns (hi-level) current output 0
+Time 60 ns (negedge) current output 0
+Time 61 ns (lo-level) current output 0
 
 
 
-pressed
-pressed
 CLOCK CYCLE 15
-Time 62 ns (posedge) current output 1
-Time 63 ns (hi-level) current output 1
-Time 64 ns (negedge) current output 1
-NOT-pressed
-Time 65 ns (lo-level) current output 1
+Time 62 ns (posedge) current output 0
+Time 63 ns (hi-level) current output 0
+Time 64 ns (negedge) current output 0
+Time 65 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 16
-Time 66 ns (posedge) current output 1
+Time 66 ns (posedge) current output 0
 Time 67 ns (hi-level) current output 1
 Time 68 ns (negedge) current output 1
-3 times random bouncing
-NOT-pressed
 Time 69 ns (lo-level) current output 1
 
 
 
-NOT-pressed
-NOT-pressed
 CLOCK CYCLE 17
 Time 70 ns (posedge) current output 1
 Time 71 ns (hi-level) current output 1
 Time 72 ns (negedge) current output 1
-NOT-pressed
 Time 73 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 18
 Time 74 ns (posedge) current output 1
-Time 75 ns (hi-level) current output 1
-Time 76 ns (negedge) current output 1
-pressed
-Time 77 ns (lo-level) current output 1
+Time 75 ns (hi-level) current output 0
+Time 76 ns (negedge) current output 0
+Time 77 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 19
-Time 78 ns (posedge) current output 1
+Time 78 ns (posedge) current output 0
 Time 79 ns (hi-level) current output 0
 Time 80 ns (negedge) current output 0
-NOT-pressed
 Time 81 ns (lo-level) current output 0
 
 
@@ -213,43 +167,30 @@ CLOCK CYCLE 20
 Time 82 ns (posedge) current output 0
 Time 83 ns (hi-level) current output 0
 Time 84 ns (negedge) current output 0
-3 times random bouncing
-NOT-pressed
 Time 85 ns (lo-level) current output 0
 
 
 
-NOT-pressed
-NOT-pressed
 CLOCK CYCLE 21
 Time 86 ns (posedge) current output 0
-Time 87 ns (hi-level) current output 0
-Time 88 ns (negedge) current output 0
-2 times random bouncing
-pressed
-Time 89 ns (lo-level) current output 0
+Time 87 ns (hi-level) current output 1
+Time 88 ns (negedge) current output 1
+Time 89 ns (lo-level) current output 1
 
 
 
-pressed
 CLOCK CYCLE 22
-Time 90 ns (posedge) current output 0
+Time 90 ns (posedge) current output 1
 Time 91 ns (hi-level) current output 1
 Time 92 ns (negedge) current output 1
-4 times random bouncing
-pressed
 Time 93 ns (lo-level) current output 1
 
 
 
-NOT-pressed
-NOT-pressed
-pressed
 CLOCK CYCLE 23
 Time 94 ns (posedge) current output 1
 Time 95 ns (hi-level) current output 1
 Time 96 ns (negedge) current output 1
-pressed
 Time 97 ns (lo-level) current output 1
 
 
@@ -258,78 +199,62 @@ CLOCK CYCLE 24
 Time 98 ns (posedge) current output 1
 Time 99 ns (hi-level) current output 1
 Time 100 ns (negedge) current output 1
-NOT-pressed
 Time 101 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 25
 Time 102 ns (posedge) current output 1
-Time 103 ns (hi-level) current output 1
-Time 104 ns (negedge) current output 1
-4 times random bouncing
-pressed
-Time 105 ns (lo-level) current output 1
+Time 103 ns (hi-level) current output 0
+Time 104 ns (negedge) current output 0
+Time 105 ns (lo-level) current output 0
 
 
 
-NOT-pressed
-pressed
-pressed
 CLOCK CYCLE 26
-Time 106 ns (posedge) current output 1
+Time 106 ns (posedge) current output 0
 Time 107 ns (hi-level) current output 0
 Time 108 ns (negedge) current output 0
-pressed
 Time 109 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 27
 Time 110 ns (posedge) current output 0
-Time 111 ns (hi-level) current output 0
-Time 112 ns (negedge) current output 0
-pressed
-Time 113 ns (lo-level) current output 0
+Time 111 ns (hi-level) current output 1
+Time 112 ns (negedge) current output 1
+Time 113 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 28
-Time 114 ns (posedge) current output 0
-Time 115 ns (hi-level) current output 0
-Time 116 ns (negedge) current output 0
-pressed
-Time 117 ns (lo-level) current output 0
+Time 114 ns (posedge) current output 1
+Time 115 ns (hi-level) current output 1
+Time 116 ns (negedge) current output 1
+Time 117 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 29
-Time 118 ns (posedge) current output 0
-Time 119 ns (hi-level) current output 0
-Time 120 ns (negedge) current output 0
-4 times random bouncing
-NOT-pressed
-Time 121 ns (lo-level) current output 0
+Time 118 ns (posedge) current output 1
+Time 119 ns (hi-level) current output 1
+Time 120 ns (negedge) current output 1
+Time 121 ns (lo-level) current output 1
 
 
 
-NOT-pressed
-NOT-pressed
-NOT-pressed
 CLOCK CYCLE 30
-Time 122 ns (posedge) current output 0
-Time 123 ns (hi-level) current output 0
-Time 124 ns (negedge) current output 0
-pressed
-Time 125 ns (lo-level) current output 0
+Time 122 ns (posedge) current output 1
+Time 123 ns (hi-level) current output 1
+Time 124 ns (negedge) current output 1
+Time 125 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 31
-Time 126 ns (posedge) current output 0
+Time 126 ns (posedge) current output 1
 Time 127 ns (hi-level) current output 1
 Time 128 ns (negedge) current output 1
-NOT-pressed
 Time 129 ns (lo-level) current output 1
 
 
@@ -338,56 +263,46 @@ CLOCK CYCLE 32
 Time 130 ns (posedge) current output 1
 Time 131 ns (hi-level) current output 1
 Time 132 ns (negedge) current output 1
-2 times random bouncing
-pressed
 Time 133 ns (lo-level) current output 1
 
 
 
-pressed
 CLOCK CYCLE 33
 Time 134 ns (posedge) current output 1
-Time 135 ns (hi-level) current output 0
-Time 136 ns (negedge) current output 0
-2 times random bouncing
-pressed
-Time 137 ns (lo-level) current output 0
+Time 135 ns (hi-level) current output 1
+Time 136 ns (negedge) current output 1
+Time 137 ns (lo-level) current output 1
 
 
 
-NOT-pressed
 CLOCK CYCLE 34
-Time 138 ns (posedge) current output 0
-Time 139 ns (hi-level) current output 0
-Time 140 ns (negedge) current output 0
-pressed
-Time 141 ns (lo-level) current output 0
+Time 138 ns (posedge) current output 1
+Time 139 ns (hi-level) current output 1
+Time 140 ns (negedge) current output 1
+Time 141 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 35
-Time 142 ns (posedge) current output 0
-Time 143 ns (hi-level) current output 1
-Time 144 ns (negedge) current output 1
-NOT-pressed
-Time 145 ns (lo-level) current output 1
+Time 142 ns (posedge) current output 1
+Time 143 ns (hi-level) current output 0
+Time 144 ns (negedge) current output 0
+Time 145 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 36
-Time 146 ns (posedge) current output 1
-Time 147 ns (hi-level) current output 1
-Time 148 ns (negedge) current output 1
-NOT-pressed
-Time 149 ns (lo-level) current output 1
+Time 146 ns (posedge) current output 0
+Time 147 ns (hi-level) current output 0
+Time 148 ns (negedge) current output 0
+Time 149 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 37
-Time 150 ns (posedge) current output 1
+Time 150 ns (posedge) current output 0
 Time 151 ns (hi-level) current output 1
 Time 152 ns (negedge) current output 1
-NOT-pressed
 Time 153 ns (lo-level) current output 1
 
 
@@ -396,7 +311,6 @@ CLOCK CYCLE 38
 Time 154 ns (posedge) current output 1
 Time 155 ns (hi-level) current output 1
 Time 156 ns (negedge) current output 1
-NOT-pressed
 Time 157 ns (lo-level) current output 1
 
 
@@ -405,65 +319,54 @@ CLOCK CYCLE 39
 Time 158 ns (posedge) current output 1
 Time 159 ns (hi-level) current output 1
 Time 160 ns (negedge) current output 1
-pressed
 Time 161 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 40
 Time 162 ns (posedge) current output 1
-Time 163 ns (hi-level) current output 0
-Time 164 ns (negedge) current output 0
-pressed
-Time 165 ns (lo-level) current output 0
+Time 163 ns (hi-level) current output 1
+Time 164 ns (negedge) current output 1
+Time 165 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 41
-Time 166 ns (posedge) current output 0
-Time 167 ns (hi-level) current output 0
-Time 168 ns (negedge) current output 0
-NOT-pressed
-Time 169 ns (lo-level) current output 0
+Time 166 ns (posedge) current output 1
+Time 167 ns (hi-level) current output 1
+Time 168 ns (negedge) current output 1
+Time 169 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 42
-Time 170 ns (posedge) current output 0
-Time 171 ns (hi-level) current output 0
-Time 172 ns (negedge) current output 0
-4 times random bouncing
-pressed
-Time 173 ns (lo-level) current output 0
+Time 170 ns (posedge) current output 1
+Time 171 ns (hi-level) current output 1
+Time 172 ns (negedge) current output 1
+Time 173 ns (lo-level) current output 1
 
 
 
-NOT-pressed
-NOT-pressed
-pressed
 CLOCK CYCLE 43
-Time 174 ns (posedge) current output 0
+Time 174 ns (posedge) current output 1
 Time 175 ns (hi-level) current output 1
 Time 176 ns (negedge) current output 1
-NOT-pressed
 Time 177 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 44
 Time 178 ns (posedge) current output 1
-Time 179 ns (hi-level) current output 1
-Time 180 ns (negedge) current output 1
-pressed
-Time 181 ns (lo-level) current output 1
+Time 179 ns (hi-level) current output 0
+Time 180 ns (negedge) current output 0
+Time 181 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 45
-Time 182 ns (posedge) current output 1
+Time 182 ns (posedge) current output 0
 Time 183 ns (hi-level) current output 0
 Time 184 ns (negedge) current output 0
-pressed
 Time 185 ns (lo-level) current output 0
 
 
@@ -472,7 +375,6 @@ CLOCK CYCLE 46
 Time 186 ns (posedge) current output 0
 Time 187 ns (hi-level) current output 0
 Time 188 ns (negedge) current output 0
-NOT-pressed
 Time 189 ns (lo-level) current output 0
 
 
@@ -481,87 +383,70 @@ CLOCK CYCLE 47
 Time 190 ns (posedge) current output 0
 Time 191 ns (hi-level) current output 0
 Time 192 ns (negedge) current output 0
-pressed
 Time 193 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 48
 Time 194 ns (posedge) current output 0
-Time 195 ns (hi-level) current output 1
-Time 196 ns (negedge) current output 1
-3 times random bouncing
-NOT-pressed
-Time 197 ns (lo-level) current output 1
+Time 195 ns (hi-level) current output 0
+Time 196 ns (negedge) current output 0
+Time 197 ns (lo-level) current output 0
 
 
 
-NOT-pressed
-pressed
 CLOCK CYCLE 49
-Time 198 ns (posedge) current output 1
-Time 199 ns (hi-level) current output 1
-Time 200 ns (negedge) current output 1
-2 times random bouncing
-NOT-pressed
-Time 201 ns (lo-level) current output 1
+Time 198 ns (posedge) current output 0
+Time 199 ns (hi-level) current output 0
+Time 200 ns (negedge) current output 0
+Time 201 ns (lo-level) current output 0
 
 
 
-NOT-pressed
 CLOCK CYCLE 50
-Time 202 ns (posedge) current output 1
-Time 203 ns (hi-level) current output 1
-Time 204 ns (negedge) current output 1
-NOT-pressed
-Time 205 ns (lo-level) current output 1
+Time 202 ns (posedge) current output 0
+Time 203 ns (hi-level) current output 0
+Time 204 ns (negedge) current output 0
+Time 205 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 51
-Time 206 ns (posedge) current output 1
-Time 207 ns (hi-level) current output 1
-Time 208 ns (negedge) current output 1
-3 times random bouncing
-NOT-pressed
-Time 209 ns (lo-level) current output 1
+Time 206 ns (posedge) current output 0
+Time 207 ns (hi-level) current output 0
+Time 208 ns (negedge) current output 0
+Time 209 ns (lo-level) current output 0
 
 
 
-pressed
-NOT-pressed
 CLOCK CYCLE 52
-Time 210 ns (posedge) current output 1
+Time 210 ns (posedge) current output 0
 Time 211 ns (hi-level) current output 1
 Time 212 ns (negedge) current output 1
-pressed
 Time 213 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 53
 Time 214 ns (posedge) current output 1
-Time 215 ns (hi-level) current output 0
-Time 216 ns (negedge) current output 0
-pressed
-Time 217 ns (lo-level) current output 0
+Time 215 ns (hi-level) current output 1
+Time 216 ns (negedge) current output 1
+Time 217 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 54
-Time 218 ns (posedge) current output 0
-Time 219 ns (hi-level) current output 0
-Time 220 ns (negedge) current output 0
-pressed
-Time 221 ns (lo-level) current output 0
+Time 218 ns (posedge) current output 1
+Time 219 ns (hi-level) current output 1
+Time 220 ns (negedge) current output 1
+Time 221 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 55
-Time 222 ns (posedge) current output 0
+Time 222 ns (posedge) current output 1
 Time 223 ns (hi-level) current output 0
 Time 224 ns (negedge) current output 0
-pressed
 Time 225 ns (lo-level) current output 0
 
 
@@ -570,7 +455,6 @@ CLOCK CYCLE 56
 Time 226 ns (posedge) current output 0
 Time 227 ns (hi-level) current output 0
 Time 228 ns (negedge) current output 0
-NOT-pressed
 Time 229 ns (lo-level) current output 0
 
 
@@ -579,89 +463,70 @@ CLOCK CYCLE 57
 Time 230 ns (posedge) current output 0
 Time 231 ns (hi-level) current output 0
 Time 232 ns (negedge) current output 0
-3 times random bouncing
-pressed
 Time 233 ns (lo-level) current output 0
 
 
 
-NOT-pressed
-NOT-pressed
 CLOCK CYCLE 58
 Time 234 ns (posedge) current output 0
 Time 235 ns (hi-level) current output 0
 Time 236 ns (negedge) current output 0
-4 times random bouncing
-pressed
 Time 237 ns (lo-level) current output 0
 
 
 
-NOT-pressed
-NOT-pressed
-NOT-pressed
 CLOCK CYCLE 59
 Time 238 ns (posedge) current output 0
 Time 239 ns (hi-level) current output 0
 Time 240 ns (negedge) current output 0
-pressed
 Time 241 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 60
 Time 242 ns (posedge) current output 0
-Time 243 ns (hi-level) current output 1
-Time 244 ns (negedge) current output 1
-NOT-pressed
-Time 245 ns (lo-level) current output 1
+Time 243 ns (hi-level) current output 0
+Time 244 ns (negedge) current output 0
+Time 245 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 61
-Time 246 ns (posedge) current output 1
-Time 247 ns (hi-level) current output 1
-Time 248 ns (negedge) current output 1
-pressed
-Time 249 ns (lo-level) current output 1
+Time 246 ns (posedge) current output 0
+Time 247 ns (hi-level) current output 0
+Time 248 ns (negedge) current output 0
+Time 249 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 62
-Time 250 ns (posedge) current output 1
-Time 251 ns (hi-level) current output 0
-Time 252 ns (negedge) current output 0
-NOT-pressed
-Time 253 ns (lo-level) current output 0
+Time 250 ns (posedge) current output 0
+Time 251 ns (hi-level) current output 1
+Time 252 ns (negedge) current output 1
+Time 253 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 63
-Time 254 ns (posedge) current output 0
-Time 255 ns (hi-level) current output 0
-Time 256 ns (negedge) current output 0
-3 times random bouncing
-NOT-pressed
-Time 257 ns (lo-level) current output 0
+Time 254 ns (posedge) current output 1
+Time 255 ns (hi-level) current output 1
+Time 256 ns (negedge) current output 1
+Time 257 ns (lo-level) current output 1
 
 
 
-pressed
-NOT-pressed
 CLOCK CYCLE 64
-Time 258 ns (posedge) current output 0
-Time 259 ns (hi-level) current output 0
-Time 260 ns (negedge) current output 0
-pressed
-Time 261 ns (lo-level) current output 0
+Time 258 ns (posedge) current output 1
+Time 259 ns (hi-level) current output 1
+Time 260 ns (negedge) current output 1
+Time 261 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 65
-Time 262 ns (posedge) current output 0
+Time 262 ns (posedge) current output 1
 Time 263 ns (hi-level) current output 1
 Time 264 ns (negedge) current output 1
-NOT-pressed
 Time 265 ns (lo-level) current output 1
 
 
@@ -670,177 +535,134 @@ CLOCK CYCLE 66
 Time 266 ns (posedge) current output 1
 Time 267 ns (hi-level) current output 1
 Time 268 ns (negedge) current output 1
-pressed
 Time 269 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 67
 Time 270 ns (posedge) current output 1
-Time 271 ns (hi-level) current output 0
-Time 272 ns (negedge) current output 0
-3 times random bouncing
-pressed
-Time 273 ns (lo-level) current output 0
+Time 271 ns (hi-level) current output 1
+Time 272 ns (negedge) current output 1
+Time 273 ns (lo-level) current output 1
 
 
 
-pressed
-NOT-pressed
 CLOCK CYCLE 68
-Time 274 ns (posedge) current output 0
-Time 275 ns (hi-level) current output 0
-Time 276 ns (negedge) current output 0
-NOT-pressed
-Time 277 ns (lo-level) current output 0
+Time 274 ns (posedge) current output 1
+Time 275 ns (hi-level) current output 1
+Time 276 ns (negedge) current output 1
+Time 277 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 69
-Time 278 ns (posedge) current output 0
+Time 278 ns (posedge) current output 1
 Time 279 ns (hi-level) current output 0
 Time 280 ns (negedge) current output 0
-pressed
 Time 281 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 70
 Time 282 ns (posedge) current output 0
-Time 283 ns (hi-level) current output 1
-Time 284 ns (negedge) current output 1
-NOT-pressed
-Time 285 ns (lo-level) current output 1
+Time 283 ns (hi-level) current output 0
+Time 284 ns (negedge) current output 0
+Time 285 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 71
-Time 286 ns (posedge) current output 1
-Time 287 ns (hi-level) current output 1
-Time 288 ns (negedge) current output 1
-NOT-pressed
-Time 289 ns (lo-level) current output 1
+Time 286 ns (posedge) current output 0
+Time 287 ns (hi-level) current output 0
+Time 288 ns (negedge) current output 0
+Time 289 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 72
-Time 290 ns (posedge) current output 1
-Time 291 ns (hi-level) current output 1
-Time 292 ns (negedge) current output 1
-2 times random bouncing
-pressed
-Time 293 ns (lo-level) current output 1
+Time 290 ns (posedge) current output 0
+Time 291 ns (hi-level) current output 0
+Time 292 ns (negedge) current output 0
+Time 293 ns (lo-level) current output 0
 
 
 
-pressed
 CLOCK CYCLE 73
-Time 294 ns (posedge) current output 1
+Time 294 ns (posedge) current output 0
 Time 295 ns (hi-level) current output 0
 Time 296 ns (negedge) current output 0
-3 times random bouncing
-pressed
 Time 297 ns (lo-level) current output 0
 
 
 
-pressed
-pressed
 CLOCK CYCLE 74
 Time 298 ns (posedge) current output 0
-Time 299 ns (hi-level) current output 0
-Time 300 ns (negedge) current output 0
-3 times random bouncing
-NOT-pressed
-Time 301 ns (lo-level) current output 0
+Time 299 ns (hi-level) current output 1
+Time 300 ns (negedge) current output 1
+Time 301 ns (lo-level) current output 1
 
 
 
-pressed
-pressed
 CLOCK CYCLE 75
-Time 302 ns (posedge) current output 0
-Time 303 ns (hi-level) current output 0
-Time 304 ns (negedge) current output 0
-4 times random bouncing
-pressed
-Time 305 ns (lo-level) current output 0
+Time 302 ns (posedge) current output 1
+Time 303 ns (hi-level) current output 1
+Time 304 ns (negedge) current output 1
+Time 305 ns (lo-level) current output 1
 
 
 
-pressed
-NOT-pressed
-pressed
 CLOCK CYCLE 76
-Time 306 ns (posedge) current output 0
-Time 307 ns (hi-level) current output 0
-Time 308 ns (negedge) current output 0
-2 times random bouncing
-NOT-pressed
-Time 309 ns (lo-level) current output 0
+Time 306 ns (posedge) current output 1
+Time 307 ns (hi-level) current output 1
+Time 308 ns (negedge) current output 1
+Time 309 ns (lo-level) current output 1
 
 
 
-NOT-pressed
 CLOCK CYCLE 77
-Time 310 ns (posedge) current output 0
+Time 310 ns (posedge) current output 1
 Time 311 ns (hi-level) current output 0
 Time 312 ns (negedge) current output 0
-3 times random bouncing
-NOT-pressed
 Time 313 ns (lo-level) current output 0
 
 
 
-pressed
-pressed
 CLOCK CYCLE 78
 Time 314 ns (posedge) current output 0
-Time 315 ns (hi-level) current output 1
-Time 316 ns (negedge) current output 1
-3 times random bouncing
-NOT-pressed
-Time 317 ns (lo-level) current output 1
+Time 315 ns (hi-level) current output 0
+Time 316 ns (negedge) current output 0
+Time 317 ns (lo-level) current output 0
 
 
 
-pressed
-NOT-pressed
 CLOCK CYCLE 79
-Time 318 ns (posedge) current output 1
-Time 319 ns (hi-level) current output 1
-Time 320 ns (negedge) current output 1
-pressed
-Time 321 ns (lo-level) current output 1
+Time 318 ns (posedge) current output 0
+Time 319 ns (hi-level) current output 0
+Time 320 ns (negedge) current output 0
+Time 321 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 80
-Time 322 ns (posedge) current output 1
-Time 323 ns (hi-level) current output 0
-Time 324 ns (negedge) current output 0
-3 times random bouncing
-NOT-pressed
-Time 325 ns (lo-level) current output 0
+Time 322 ns (posedge) current output 0
+Time 323 ns (hi-level) current output 1
+Time 324 ns (negedge) current output 1
+Time 325 ns (lo-level) current output 1
 
 
 
-pressed
-NOT-pressed
 CLOCK CYCLE 81
-Time 326 ns (posedge) current output 0
-Time 327 ns (hi-level) current output 0
-Time 328 ns (negedge) current output 0
-pressed
-Time 329 ns (lo-level) current output 0
+Time 326 ns (posedge) current output 1
+Time 327 ns (hi-level) current output 1
+Time 328 ns (negedge) current output 1
+Time 329 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 82
-Time 330 ns (posedge) current output 0
+Time 330 ns (posedge) current output 1
 Time 331 ns (hi-level) current output 1
 Time 332 ns (negedge) current output 1
-pressed
 Time 333 ns (lo-level) current output 1
 
 
@@ -849,98 +671,78 @@ CLOCK CYCLE 83
 Time 334 ns (posedge) current output 1
 Time 335 ns (hi-level) current output 1
 Time 336 ns (negedge) current output 1
-3 times random bouncing
-NOT-pressed
 Time 337 ns (lo-level) current output 1
 
 
 
-NOT-pressed
-pressed
 CLOCK CYCLE 84
 Time 338 ns (posedge) current output 1
-Time 339 ns (hi-level) current output 1
-Time 340 ns (negedge) current output 1
-NOT-pressed
-Time 341 ns (lo-level) current output 1
+Time 339 ns (hi-level) current output 0
+Time 340 ns (negedge) current output 0
+Time 341 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 85
-Time 342 ns (posedge) current output 1
-Time 343 ns (hi-level) current output 1
-Time 344 ns (negedge) current output 1
-4 times random bouncing
-NOT-pressed
-Time 345 ns (lo-level) current output 1
+Time 342 ns (posedge) current output 0
+Time 343 ns (hi-level) current output 0
+Time 344 ns (negedge) current output 0
+Time 345 ns (lo-level) current output 0
 
 
 
-NOT-pressed
-NOT-pressed
-NOT-pressed
 CLOCK CYCLE 86
-Time 346 ns (posedge) current output 1
-Time 347 ns (hi-level) current output 1
-Time 348 ns (negedge) current output 1
-NOT-pressed
-Time 349 ns (lo-level) current output 1
+Time 346 ns (posedge) current output 0
+Time 347 ns (hi-level) current output 0
+Time 348 ns (negedge) current output 0
+Time 349 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 87
-Time 350 ns (posedge) current output 1
-Time 351 ns (hi-level) current output 1
-Time 352 ns (negedge) current output 1
-NOT-pressed
-Time 353 ns (lo-level) current output 1
+Time 350 ns (posedge) current output 0
+Time 351 ns (hi-level) current output 0
+Time 352 ns (negedge) current output 0
+Time 353 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 88
-Time 354 ns (posedge) current output 1
-Time 355 ns (hi-level) current output 1
-Time 356 ns (negedge) current output 1
-pressed
-Time 357 ns (lo-level) current output 1
+Time 354 ns (posedge) current output 0
+Time 355 ns (hi-level) current output 0
+Time 356 ns (negedge) current output 0
+Time 357 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 89
-Time 358 ns (posedge) current output 1
+Time 358 ns (posedge) current output 0
 Time 359 ns (hi-level) current output 0
 Time 360 ns (negedge) current output 0
-3 times random bouncing
-pressed
 Time 361 ns (lo-level) current output 0
 
 
 
-pressed
-pressed
 CLOCK CYCLE 90
 Time 362 ns (posedge) current output 0
-Time 363 ns (hi-level) current output 0
-Time 364 ns (negedge) current output 0
-NOT-pressed
-Time 365 ns (lo-level) current output 0
+Time 363 ns (hi-level) current output 1
+Time 364 ns (negedge) current output 1
+Time 365 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 91
-Time 366 ns (posedge) current output 0
-Time 367 ns (hi-level) current output 0
-Time 368 ns (negedge) current output 0
-pressed
-Time 369 ns (lo-level) current output 0
+Time 366 ns (posedge) current output 1
+Time 367 ns (hi-level) current output 1
+Time 368 ns (negedge) current output 1
+Time 369 ns (lo-level) current output 1
 
 
 
 CLOCK CYCLE 92
-Time 370 ns (posedge) current output 0
+Time 370 ns (posedge) current output 1
 Time 371 ns (hi-level) current output 1
 Time 372 ns (negedge) current output 1
-NOT-pressed
 Time 373 ns (lo-level) current output 1
 
 
@@ -949,7 +751,6 @@ CLOCK CYCLE 93
 Time 374 ns (posedge) current output 1
 Time 375 ns (hi-level) current output 1
 Time 376 ns (negedge) current output 1
-pressed
 Time 377 ns (lo-level) current output 1
 
 
@@ -958,7 +759,6 @@ CLOCK CYCLE 94
 Time 378 ns (posedge) current output 1
 Time 379 ns (hi-level) current output 0
 Time 380 ns (negedge) current output 0
-NOT-pressed
 Time 381 ns (lo-level) current output 0
 
 
@@ -967,37 +767,30 @@ CLOCK CYCLE 95
 Time 382 ns (posedge) current output 0
 Time 383 ns (hi-level) current output 0
 Time 384 ns (negedge) current output 0
-pressed
 Time 385 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 96
 Time 386 ns (posedge) current output 0
-Time 387 ns (hi-level) current output 1
-Time 388 ns (negedge) current output 1
-3 times random bouncing
-NOT-pressed
-Time 389 ns (lo-level) current output 1
+Time 387 ns (hi-level) current output 0
+Time 388 ns (negedge) current output 0
+Time 389 ns (lo-level) current output 0
 
 
 
-pressed
-NOT-pressed
 CLOCK CYCLE 97
-Time 390 ns (posedge) current output 1
-Time 391 ns (hi-level) current output 1
-Time 392 ns (negedge) current output 1
-pressed
-Time 393 ns (lo-level) current output 1
+Time 390 ns (posedge) current output 0
+Time 391 ns (hi-level) current output 0
+Time 392 ns (negedge) current output 0
+Time 393 ns (lo-level) current output 0
 
 
 
 CLOCK CYCLE 98
-Time 394 ns (posedge) current output 1
+Time 394 ns (posedge) current output 0
 Time 395 ns (hi-level) current output 0
 Time 396 ns (negedge) current output 0
-pressed
 Time 397 ns (lo-level) current output 0
 
 
