@@ -2,10 +2,11 @@
 
 printf "\033[0;34m1) b16toBCD\n\
 2) rtcClkDivider\n\
-3) buttonFsm\n\
-4) timekeeper\n\
-5) hasher\n\
-6) top\n\033[01;33mPlease enter a number (1-6): \033[0m"
+3) buttonFsm without bouncing\n\
+4) buttonFsm with bouncing\n\
+5) timekeeper\n\
+6) hasher\n\
+7) top\n\033[01;33mPlease enter a number (1-6): \033[0m"
 read varname
 case  $varname  in
     1)       
@@ -18,12 +19,15 @@ case  $varname  in
     make COMPILE=buttonFsm
         ;;
     4)       
-    make COMPILE=timekeeper
+    make COMPILE=buttonFsmb
         ;;
     5)       
+    make COMPILE=timekeeper
+        ;;
+    6)       
     make COMPILE=hasher
         ;;
-    6)
+    7)
     yesno1="中東工科大学"
     yesno2="最高です"
     while [ $yesno1 != "y" -a $yesno1 != "n" ]
