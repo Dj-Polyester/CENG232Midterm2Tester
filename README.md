@@ -31,4 +31,6 @@ In some testbenches, you notice that `#period;` written once. Indeed, `#period` 
 * `top.log` is updated, timekeeper updates every N seconds
 * `top_tb.v` is updated. Unnecessary variable `button_out` is out
 * Two `buttonFsm.log` files, alternative one added.
+26/05/2020: 
+* 2 testbenches for `buttonFsm` (with and without bouncing).
 
