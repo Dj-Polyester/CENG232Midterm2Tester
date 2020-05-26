@@ -33,4 +33,5 @@ In some testbenches, you notice that `#period;` written once. Indeed, `#period` 
 * Two `buttonFsm.log` files, alternative one added.
 26/05/2020: 
 * 2 testbenches for `buttonFsm` (with and without bouncing).
+* Integer division in buttonFsm_tb with bouncing converted to float division
 
